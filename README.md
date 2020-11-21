@@ -3,7 +3,7 @@ Projeto da página inicial do instagram com ênfase ao uso do CSS3
 
 <h3>Web Deleveloper - Digital Inovation One - 27hrs</h3>
 
-## <p align = "center"> <a href="https://jonatasolialmeida.github.io/Interface-instagram/index.html">Projeto publicado, >>>clique aqui<<<</a></p>
+## <p align = "center"> <a href="https://jonatasolialmeida.github.io/Interface-instagram/index.html" target="_blank">Projeto publicado, >>>clique aqui<<<</a></p>
 
 <h2>Projeto:</h2>
 
